@@ -1,4 +1,4 @@
-module.exports = jspackagestarter;
+exports = jspackagestarter;
 
 function jspackagestarter() {
     return "Hello";
