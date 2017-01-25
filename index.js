@@ -1,5 +1,5 @@
-module.exports = jspackagestarter
+module.exports = jspackagestarter;
 
 function jspackagestarter() {
-    return new Date().getTime()
+    return "Hello";
 }
