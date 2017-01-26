@@ -1,3 +1,3 @@
-module.exports = function jspackagestarter () {
-    return true;
+module.exports = function(a, b) {
+    return a + b;
 };
