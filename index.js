@@ -1,5 +1,3 @@
-exports = jspackagestarter;
-
-function jspackagestarter() {
-    return "Hello";
-}
+module.exports = function jspackagestarter () {
+    return true;
+};
